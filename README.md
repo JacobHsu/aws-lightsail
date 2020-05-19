@@ -27,6 +27,21 @@ Microsoft Visual C++ Redistributable for Visual Studio 2019
 VISUAL C++ REDISTRIBUTABLE FOR VISUAL STUDIO 2019
 https://www.sts-tutorial.com/download/credistributable2019
 
+### MySQL Workbench
+
+connect to Database
+```
+54.180.167.218:22
+bitnami
+LightsailDefaultKey-ap-northeast-2.pem
+localhost
+3306
+bn_wordpress
+bitnami_wordpress
+```
+
+`update wp_users set user_pass=MD5(RAND()) where id=2;`
+
 ## Tool
 
 [Download PuTTY](https://www.putty.org/)
