@@ -16,6 +16,10 @@
 
 PuTTY 原本不支援 SSH 金鑰的私有金鑰格式 (.pem)。但 PuTTY 提供一套名為 PuTTYgen 的工具，可將金鑰轉換為 PuTTY 所需的格式。您必須先如下所示將您的私有金鑰 (.pem 檔案) 轉換為此格式 (.ppk 檔案)，才能使用 PuTTY 連線至您的執行個體。
 
+[MySQL Workbench](https://dev.mysql.com/doc/workbench/en/)
+[Minimum Requirements for Windows](https://dev.mysql.com/doc/workbench/en/wb-installing-windows.html)
+[最新支援的 Visual C++ 下載](https://support.microsoft.com/zh-tw/help/2977003/the-latest-supported-visual-c-downloads)
+
 ## Tool
 
 [Download PuTTY](https://www.putty.org/)
