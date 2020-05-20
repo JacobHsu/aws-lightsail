@@ -27,6 +27,19 @@ Microsoft Visual C++ Redistributable for Visual Studio 2019
 VISUAL C++ REDISTRIBUTABLE FOR VISUAL STUDIO 2019
 https://www.sts-tutorial.com/download/credistributable2019
 
+
+[Connect To PhpMyAdmin](https://docs.bitnami.com/aws/faq/get-started/access-phpmyadmin/)
+
+
+[![Audi R8](http://img.youtube.com/vi/9VdcQLDmYII/0.jpg)](https://www.youtube.com/watch?v=9VdcQLDmYII "bitnami")  
+PuTTY  
+http://127.0.0.1:8888/phpmyadmin/
+
+mysql > bitnami_wordpress
+
+[WinSCP](https://winscp.net/eng/download.php)
+/home/bitnami/ apps/wordpress/htdocs   
+
 ### MySQL Workbench
 
 connect to Database
