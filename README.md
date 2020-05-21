@@ -58,3 +58,16 @@ bitnami_wordpress
 ## Tool
 
 [Download PuTTY](https://www.putty.org/)
+
+## Wordpress
+
+mysql修改url要注意修正字串長度
+
+```
+s:65:\"http://www.domain.com/wp-content/uploads/2020/05/divider.png\"
+s:66:\"https://www.domain.com/wp-content/uploads/2020/05/divider.png\"
+
+
+"content\";s:313:\"<img src=\"http://www.domain.com/wp-content/uploads/2020/05/divider.png\"
+"content\";s:314:\"<img src=\"https://www.domain.com/wp-content/uploads/2020/05/divider.png\"
+```
