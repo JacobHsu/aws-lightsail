@@ -70,4 +70,12 @@ s:66:\"https://www.domain.com/wp-content/uploads/2020/05/divider.png\"
 
 "content\";s:313:\"<img src=\"http://www.domain.com/wp-content/uploads/2020/05/divider.png\"
 "content\";s:314:\"<img src=\"https://www.domain.com/wp-content/uploads/2020/05/divider.png\"
-```
+
+### Theme BeTheme
+
+Appearance > beTheme Options 
+
+Header & Subheader > Header > LAYOUT / Minimalist / Minimalist without Header space  
+Header & Subheader > Extras > Search  `Hide`  
+Header & Subheader > Extras > WPML / Custom Switcher Style `hide`  
+Colors > Header / SEARCH / Search Bar background
